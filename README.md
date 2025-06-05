@@ -39,7 +39,7 @@ It fetches real-time weather data from the OpenWeatherMap API and transforms the
 
 | Splash Screen | Sunny | Cloudy | Rainy | Android Studio View |
 |---------------|-------|--------|-------|----------------------|
-| ![Splash]() | ![Sunny](screenshots/sunny.png) | ![Cloudy](screenshots/cloudy.png) | ![Rainy](screenshots/rainy.png) | ![Studio](screenshots/ide.png) |
+| ![Splash]() | ![Sunny](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20120022.png?raw=true) | ![Cloudy](screenshots/cloudy.png) | ![Rainy](screenshots/rainy.png) | ![Studio](screenshots/ide.png) |
 
 
 
