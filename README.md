@@ -39,7 +39,7 @@ It fetches real-time weather data from the OpenWeatherMap API and transforms the
 
 | Splash Screen | Sunny | Cloudy | Rainy | Android Studio View |
 |---------------|-------|--------|-------|----------------------|
-| ![Splash](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20131536.png?raw=true) | ![Sunny](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20120022.png?raw=true) | ![Cloudy](screenshots/cloudy.png) | ![Rainy](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20120353.png?raw=true) | ![Studio](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20141241.png?raw=true) |
+| ![Splash](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20131536.png?raw=true) | ![Sunny](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20120022.png?raw=true) | ![Cloudy](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20194833.png?raw=true) | ![Rainy](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20120353.png?raw=true) | ![Studio](https://github.com/SNH1221/WeathOra/blob/main/WeathOra_screenshots/Screenshot%202025-06-05%20141241.png?raw=true) |
 
 
 ## 👨‍💻 Developer & Project Maintainer
